@@ -23,6 +23,7 @@ The main aim of this project is to replace traditional travel diaries with a dig
 - Add travel title, description, and images
 - View and update travel memories
 - Delete unwanted entries
+![image alt](https://github.com/sayalimahale352003-hash/Travel-Diary-Android-App/blob/14858b999e717b257d251768c13d284b43c58a47/Screenshot%20(688).png)
 
 ### 📸 Image Upload & Storage
 - Upload travel photos
