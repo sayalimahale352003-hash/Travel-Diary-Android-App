@@ -28,6 +28,7 @@ The main aim of this project is to replace traditional travel diaries with a dig
   
 ![image alt](https://github.com/sayalimahale352003-hash/Travel-Diary-Android-App/blob/14858b999e717b257d251768c13d284b43c58a47/Screenshot%20(688).png)
 
+![image alt](https://github.com/sayalimahale352003-hash/Travel-Diary-Android-App/blob/1336624720ec1a886d9d71f8571fe225958667b6/Screenshot%20(689).png)
 ### 📸 Image Upload & Storage
 - Upload travel photos
 - Store images using Firebase Storage
