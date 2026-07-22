@@ -38,7 +38,7 @@ The main aim of this project is to replace traditional travel diaries with a dig
 - Display user profile information
 - Manage personal travel memories
 
----
+![image alt](https://github.com/sayalimahale352003-hash/Travel-Diary-Android-App/blob/f3bda4dd249ab0ef0ac742cd9461b7b9726d91bf/Screenshot%20(686).png)
 
 ## 🛠️ Technologies Used
 
