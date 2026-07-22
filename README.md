@@ -16,6 +16,8 @@ The main aim of this project is to replace traditional travel diaries with a dig
 
 ![image alt](https://github.com/sayalimahale352003-hash/Travel-Diary-Android-App/blob/f3bda4dd249ab0ef0ac742cd9461b7b9726d91bf/Screenshot%20(686).png)
 
+
+![image alt]https://github.com/sayalimahale352003-hash/Travel-Diary-Android-App/blob/3ef7d50222d17135aa51ede07db5975712eb62b9/Screenshot%20(687).png
 ### 📖 Travel Diary Management
 - Create travel diary entries
 - Add travel title, description, and images
